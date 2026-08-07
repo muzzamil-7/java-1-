@@ -63,3 +63,20 @@ userInput = userInput.slice(0, textIndex) + "******" + userInput(i+textIndex);
 
 var string = saylani;
 console.log(string.charAt(string.length));
+
+
+var string = saylani;
+console.log(string.charAt(string.length));
+
+var string = 'pakistan'
+console.log(string.indexOf('i'));
+
+var string2 = 'bubble'
+console.log(string2.indexOf('b'));
+
+console.log(string.charAt(3));
+
+
+var string3 = 'hyderabad'
+console.log(string2.indexOf('b'));
+
